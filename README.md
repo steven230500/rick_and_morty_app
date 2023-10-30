@@ -1,4 +1,5 @@
 🚀 Rick and Morty App
+
 Una aplicación Flutter que permite a los usuarios visualizar una lista de personajes de la serie Rick and Morty, con detalles y una funcionalidad para marcar a los personajes como favoritos. Esta aplicación fue desarrollada como parte de una prueba técnica para desarrolladores mobile Flutter.
 
 📂 Estructura del proyecto
@@ -21,6 +22,7 @@ src/
 └── services/ - Servicios como el API.
 
 📦 Paquetes utilizados
+
 📌 flutter_riverpod: Para la gestión del estado.
 📌 sqflite: Usado para almacenar la lista de favoritos en la base de datos local.
 
@@ -46,4 +48,5 @@ Aplicación de principios SOLID y buenas prácticas de diseño (clean code, clea
 Uso del manejador de estados Riverpod.
 
 💼 Desarrollado por
+
 👤 Steven Patiño Urquijo
