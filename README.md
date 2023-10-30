@@ -6,14 +6,15 @@ src/
 │
 ├── data/
 │ ├── models/ - Modelos de datos.
-│ └── repositories/ - Implementaciones de repositorios para acceder a datos.
+│ └── repositories/ - Acceso a datos.
 │
-├── domain/repositories/ - Definiciones de repositorios.
+├── domain/
+│ └── repositories/ - Definiciones de repositorios.
 │
 ├── presentation/
-│ ├── notifiers/ - Notificadores de estado utilizando Riverpod.
-│ ├── providers/ - Proveedores de Riverpod.
-│ ├── screen/ - Pantallas de la aplicación.
+│ ├── notifiers/ - Notificadores con Riverpod.
+│ ├── providers/ - Proveedores con Riverpod.
+│ ├── screen/ - Pantallas.
 │ └── widgets/ - Widgets reutilizables.
 │
 └── services/ - Servicios como el API.
