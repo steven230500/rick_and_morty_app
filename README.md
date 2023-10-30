@@ -2,6 +2,7 @@
 Una aplicación Flutter que permite a los usuarios visualizar una lista de personajes de la serie Rick and Morty, con detalles y una funcionalidad para marcar a los personajes como favoritos. Esta aplicación fue desarrollada como parte de una prueba técnica para desarrolladores mobile Flutter.
 
 📂 Estructura del proyecto
+
 src/
 │
 ├── data/
