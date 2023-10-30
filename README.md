@@ -24,6 +24,7 @@ src/
 📦 Paquetes utilizados
 
 📌 flutter_riverpod: Para la gestión del estado.
+
 📌 sqflite: Usado para almacenar la lista de favoritos en la base de datos local.
 
 🔍 Funcionalidades
